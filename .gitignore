@@ -1,0 +1,9 @@
+/node_modules
+node_modules
+node_modules\
+git remote add origin https://github.com/kshitijguleri/test-new.git
+
+git branch -M main
+
+git push -u origin main
+ git config --global user.email "kshitijguleri71@gmail.com"
